@@ -1,0 +1,36 @@
+/**app.wxss**/
+view{
+  margin:0 auto;
+}
+.page{
+  height: 100%;
+  background-color: rgb(240,240,240);
+}
+.banner{
+  background-color: rgb(255,255,255);
+}
+.center-image-view{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.center-image-view image{
+  object-fit: contain;
+}
+.center-text-view{
+  text-align: center;
+  font-size: 12px;
+  line-height: 24px;
+}
+.flex-wrap{
+  display: flex;
+  flex-direction:row;
+  flex-wrap:wrap;
+  justify-content: space-between;
+}
+.list-one{
+  width: 100%;
+}
+.list-two{
+  width: 48%;
+}
