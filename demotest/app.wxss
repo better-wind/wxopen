@@ -3,11 +3,17 @@ view{
   margin:0 auto;
 }
 .page{
-  height: 100%;
-  background-color: rgb(240,240,240);
+
+}
+.section{
+  margin:20px auto;
+  padding: 10px 0;
+  font-size: 13px;
+  background-color: #EEE;
+  border-top:1rpx solid #EEE;
 }
 .banner{
-  background-color: rgb(255,255,255);
+  padding:0;
 }
 .center-image-view{
   display: flex;
@@ -22,6 +28,12 @@ view{
   font-size: 12px;
   line-height: 24px;
 }
+.left-textrows-msg-view{
+  width: 700rpx;
+  padding: 10px 0;
+  font-size: 14px;
+  line-height: 20px;
+}
 .flex-wrap{
   display: flex;
   flex-direction:row;
@@ -33,4 +45,9 @@ view{
 }
 .list-two{
   width: 48%;
+}
+.fix-wrap{
+  position: fixed;
+  left: 0;
+  bottom: 0;
 }

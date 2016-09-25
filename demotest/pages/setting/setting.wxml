@@ -1,5 +1,5 @@
 <view class="page">
-    <view class="user-info" bindtap="tapBack">
+    <view class="section user-info" bindtap="tapBack">
         <view class="center-image-view user-info-image">
             <image mode="aspectFit" src="{{userInfo.avatarUrl ? userInfo.avatarUrl : 'http://xqproduct.xiangqu.com/FiZLUkRyq2Nr_QzrcodaHtlpDYYe?imageView2/2/w/770/q/90/format/jpg/770x360/'}}" />
         </view>
@@ -8,7 +8,7 @@
         </view>
 
     </view>
-    <view class="setting-view">
+    <view class="section setting-view">
         <block wx:for="{{settingList}}">
             <view class="setting-item">
                 {{item.tag}}

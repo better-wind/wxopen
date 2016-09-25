@@ -2,10 +2,6 @@
 .text-view text{
   padding: 0 5px;
 }
-.timelimit{
-  margin:20px 0;
-  background-color: rgb(255,255,255);
-}
 .timelimit .tag-view{
   width: 100%;
 }

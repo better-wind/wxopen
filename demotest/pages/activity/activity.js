@@ -41,37 +41,43 @@ Page({
                         src:'http://xqproduct.xiangqu.com/FiZLUkRyq2Nr_QzrcodaHtlpDYYe?imageView2/2/w/770/q/90/format/jpg/770x360/',
                         mode:'aspectFit',
                         price:'99',
-                        name:'想去好设计'
+                        name:'想去好设计',
+                        link:'product'
                     },
                     {
                         src:'http://xqproduct.xiangqu.com/FiZLUkRyq2Nr_QzrcodaHtlpDYYe?imageView2/2/w/770/q/90/format/jpg/770x360/',
                         mode:'aspectFit',
                         price:'98',
-                        name:'想去好设计'
+                        name:'想去好设计',
+                        link:'product'
                     },
                     {
                         src:'http://xqproduct.xiangqu.com/FiZLUkRyq2Nr_QzrcodaHtlpDYYe?imageView2/2/w/770/q/90/format/jpg/770x360/',
                         mode:'aspectFit',
                         price:'97',
-                        name:'想去好设计'
+                        name:'想去好设计',
+                        link:'product'
                     },
                     {
                         src:'http://xqproduct.xiangqu.com/FiZLUkRyq2Nr_QzrcodaHtlpDYYe?imageView2/2/w/770/q/90/format/jpg/770x360/',
                         mode:'aspectFit',
                         price:'96',
-                        name:'想去好设计'
+                        name:'想去好设计',
+                        link:'product'
                     },
                     {
                         src:'http://xqproduct.xiangqu.com/FiZLUkRyq2Nr_QzrcodaHtlpDYYe?imageView2/2/w/770/q/90/format/jpg/770x360/',
                         mode:'aspectFit',
                         price:'95',
-                        name:'想去好设计'
+                        name:'想去好设计',
+                        link:'product'
                     },
                     {
                         src:'http://xqproduct.xiangqu.com/FiZLUkRyq2Nr_QzrcodaHtlpDYYe?imageView2/2/w/770/q/90/format/jpg/770x360/',
                         mode:'aspectFit',
                         price:'94',
-                        name:'想去好设计'
+                        name:'想去好设计',
+                        link:'product'
                     },
                 ]
             },
@@ -82,37 +88,43 @@ Page({
                         src:'http://xqproduct.xiangqu.com/FiZLUkRyq2Nr_QzrcodaHtlpDYYe?imageView2/2/w/770/q/90/format/jpg/770x360/',
                         mode:'aspectFit',
                         price:'99',
-                        name:'想去好设计'
+                        name:'想去好设计',
+                        link:'product'
                     },
                     {
                         src:'http://xqproduct.xiangqu.com/FiZLUkRyq2Nr_QzrcodaHtlpDYYe?imageView2/2/w/770/q/90/format/jpg/770x360/',
                         mode:'aspectFit',
                         price:'98',
-                        name:'想去好设计'
+                        name:'想去好设计',
+                        link:'product'
                     },
                     {
                         src:'http://xqproduct.xiangqu.com/FiZLUkRyq2Nr_QzrcodaHtlpDYYe?imageView2/2/w/770/q/90/format/jpg/770x360/',
                         mode:'aspectFit',
                         price:'97',
-                        name:'想去好设计'
+                        name:'想去好设计',
+                        link:'product'
                     },
                     {
                         src:'http://xqproduct.xiangqu.com/FiZLUkRyq2Nr_QzrcodaHtlpDYYe?imageView2/2/w/770/q/90/format/jpg/770x360/',
                         mode:'aspectFit',
                         price:'96',
-                        name:'想去好设计'
+                        name:'想去好设计',
+                        link:'product'
                     },
                     {
                         src:'http://xqproduct.xiangqu.com/FiZLUkRyq2Nr_QzrcodaHtlpDYYe?imageView2/2/w/770/q/90/format/jpg/770x360/',
                         mode:'aspectFit',
                         price:'95',
-                        name:'想去好设计'
+                        name:'想去好设计',
+                        link:'product'
                     },
                     {
                         src:'http://xqproduct.xiangqu.com/FiZLUkRyq2Nr_QzrcodaHtlpDYYe?imageView2/2/w/770/q/90/format/jpg/770x360/',
                         mode:'aspectFit',
                         price:'94',
-                        name:'想去好设计'
+                        name:'想去好设计',
+                        link:'product'
                     },
                 ]
             },

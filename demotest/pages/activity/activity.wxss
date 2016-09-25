@@ -1,6 +1,5 @@
 .product{
   width: 700rpx;
-  background-color: rgb(255,255,255);
 }
 .product .tag-item{
   margin:20px 0 0 0;

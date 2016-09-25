@@ -10,9 +10,8 @@
 }
 .setting-view{
   width: 700rpx;
-  border:1rpx solid #eee;
+  border:1rpx solid #AAA;
   border-radius: 10rpx;
-  background-color: rgb(255,255,255);
 }
 .setting-view .setting-item{
   width: 680rpx;

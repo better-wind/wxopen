@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/demotest/app.json" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demotest/pages/activity/activity.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demotest/pages/product/product.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demotest/pages/product/product.wxml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demotest/pages/setting/setting.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demotest/pages/setting/setting.wxml" charset="UTF-8" />
   </component>

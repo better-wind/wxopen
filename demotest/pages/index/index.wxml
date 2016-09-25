@@ -1,9 +1,8 @@
 <!--index.wxml-->
 <view class="page" >
-  <view class="banner">
+  <view class="section banner">
     <view>
-      <swiper class="swiper-banner"
-              indicator-dots="{{bannerList.config.indicatorDots}}"
+      <swiper indicator-dots="{{bannerList.config.indicatorDots}}"
               autoplay="{{bannerList.config.autoplay}}"
               interval="{{bannerList.config.interval}}"
               duration="{{bannerList.config.duration}}"
@@ -24,7 +23,7 @@
       </block>
     </view>
   </view>
-  <view class="timelimit flex-wrap">
+  <view class="section timelimit flex-wrap">
     <view class="tag-view center-text-view">
       <span></span>
       <text>{{limitList.tag}}</text>
@@ -32,9 +31,11 @@
     </view>
     <block wx:for="{{limitList.items}}">
       <view class="limit-item {{item.size ? 'list-one' : 'list-two'}}" >
-        <view class="image-view center-image-view">
-          <image src="{{item.src}}" mode="{{item.mode}}" />
-        </view>
+        <navigator url="../{{item.link}}/{{item.link}}">
+          <view class="image-view center-image-view">
+            <image src="{{item.src}}" mode="{{item.mode}}" />
+          </view>
+        </navigator>
         <view class="msg-view">
           <text class="center-text-view">{{item.price}}</text>
           <text class="center-text-view">{{item.name}}</text>

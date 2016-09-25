@@ -45,6 +45,7 @@ Page({
           price:'90.0',
           name:'美式街头的不屑',
           timelimit:'24',
+          link:'product'
         },
         {
           id:'2',
@@ -54,6 +55,7 @@ Page({
           price:'90.0',
           name:'美式街头的不屑',
           timelimit:'24',
+          link:'product'
         },
         {
           id:'3',
@@ -63,6 +65,7 @@ Page({
           price:'90.0',
           name:'美式街头的不屑',
           timelimit:'24',
+          link:'product'
         },
       ]
     }
